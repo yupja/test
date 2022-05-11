@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09339f65-2af7-4669-b1e8-c76f7983e3a2" name="변경" comment="" />
+    <list default="true" id="09339f65-2af7-4669-b1e8-c76f7983e3a2" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/detail.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/yeun0/Desktop/week_project_team7/m_project"
+    "last_opened_file_path": "C:/Users/yeun0/Desktop/test/m_project"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -90,6 +93,7 @@
       <workItem from="1652248041808" duration="419000" />
       <workItem from="1652248737313" duration="7775000" />
       <workItem from="1652257697617" duration="315000" />
+      <workItem from="1652260791353" duration="148000" />
     </task>
     <servers />
   </component>
